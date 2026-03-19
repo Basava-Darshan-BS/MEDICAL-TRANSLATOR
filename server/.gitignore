@@ -1,0 +1,7 @@
+node_modules
+.env
+uploads
+server/package-lock.json
+server/package.json
+src/package-lock.json
+src/package.json
